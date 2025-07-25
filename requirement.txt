@@ -1,0 +1,22 @@
+# Core
+streamlit>=1.25.0
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# PDF Generation
+fpdf>=1.7.2
+
+# Lottie Animation
+streamlit-lottie>=0.0.3
+
+# Authentication and Security
+bcrypt>=4.0.1
+streamlit-authenticator>=0.2.2
+
+# For file handling, Excel, etc.
+openpyxl>=3.1.2
